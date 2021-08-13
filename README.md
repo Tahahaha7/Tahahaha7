@@ -1,3 +1,5 @@
+# Hi, I'm Taha 🎲
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tahahaha7&show_icons=true&theme=graywhite&bg_color=50,43cea2,185a9d&title_color=fff&text_color=fff&hide=contribs,issues" />
 </p>
